@@ -1,4 +1,3 @@
-![osu-lib](https://socialify.git.ci/andhkdwmln/osu-lib/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 <div align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/andhkdwmln/osu-lib?style=for-the-badge">
@@ -45,3 +44,4 @@ const bot = new Osu();
 
 })();
 ```
+
