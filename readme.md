@@ -25,7 +25,7 @@
 ## 🚀 Quick Setup
 
 - Install `Git` and `NodeJS`
-- Clone Repository `git clone https://github.com/andhkdwmln/osu-lib`
+- Clone Repository `git clone https://github.com/shinuyamaid/osu-lib`
 - Move to directory `cd osu-lib`
 - Install required module `npm install`
 - Build `npm run build`
@@ -44,6 +44,7 @@ const bot = new Osu();
 
 })();
 ```
+
 
 
 
