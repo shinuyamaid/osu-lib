@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/andhkdwmln/osu-lib?style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/github/license/shinuyamaid/osu-lib?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andhkdwmln/osu-lib?style=for-the-badge">
 </div>
 
@@ -44,4 +44,5 @@ const bot = new Osu();
 
 })();
 ```
+
 
